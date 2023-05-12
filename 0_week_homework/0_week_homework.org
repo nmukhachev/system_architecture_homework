@@ -1,0 +1,406 @@
+* Диаграммы
+есть схема данных
+и схема доменов
+
+они находятся в svg рисунках в этой же папке
+
+* Actors 
+manager
+client - etalon
+worker - regular
+
+* Опечатки
+Воркеров будет 20 человек.
+Воркеров будет 20 котов.
+
+* Предположения
+При найме кота тестировщика его заносят в HR систему.
+HR система заносит кота в MCF.
+
+Скидка будет применятся в момент заказа.
+Альтернативный подход скидка в момент биллинга.
+
+Печеньки не портятся.
+* Процессы
+- Выбор услуги
+- Заказ печенья
+- Матчинг
+- Задание стоимости
+- Получение расходников на складе
+- Исполнение услуги или отмена
+- Применение скидки
+- Оплата и зарплата
+
+* События
+US-010
+actor hrSystem
+command hireClient
+data client
+event clientHired
+
+US-020
+actor client
+command requestService
+data service
+event serviceRequested
+
+actor client
+command canselService
+data service
+event serviceCanceled
+
+actor calendar
+command calculatePrices
+data ???
+event pricesCalculated
+
+US-021
+actor manager
+command registerServiceType
+data serviceType
+event serviceTypeRegistered
+
+US-030
+actor client
+command checkOut
+data cart
+event orderCheckedOut
+
+US-040
+actor orderCheckedOut event
+command applyDiscount
+data order
+event discountApplied
+
+US-050
+actor clientWorkerMatched event
+command evaluateService
+data etalon regular service
+event serviceEvaluated
+
+US-060
+actor  serviceRequested event 
+command triggerMatchClientWorker
+data client service
+event clientWorkerMatchTriggered
+
+US-070
+US-071
+US-072
+actor clientWorkerMatchTriggered
+command match
+data regulars order_history
+event clientWorkerMatched
+
+US-080
+actor worker
+command registerWorker
+data worker
+event workerRegistered
+
+US-081
+US-120
+actor workerAssessed event 
+command hireWorker
+data worker
+event workerHired
+
+US-090
+actor manager
+command planWorkerAssessment
+data worker plan
+event workerAssessmentPlanned
+
+US-110
+actor manager
+command planVacancyAssessment
+data vacancy plan
+event vacancyAssessmentPlanned
+
+US-120
+actor manager
+command assessWorkerPositively
+data worker
+event  workerAssessed
+
+actor manager
+command assessWorkerNegatively
+data worker
+event  workerDeclined
+
+US-130
+actor timer
+command findOverdueServices
+data services
+event overdueServiceFound
+
+actor overdueServiceFound event
+command failService
+data service
+event serviceFailed
+
+US-150
+actor clientWorkerMatched event
+command registerInventoryPickup
+data client service
+event inventoryPickupRegistered
+
+US-160
+actor storeKeeper
+command finishInventoryPickup
+data 
+event inventoryPickupFinished
+
+US-170
+actor clientWorkerMatched event
+command orderCookie
+data client service
+event cookieOrdered
+
+actor sotreKeeper
+command receiveCookie
+data client service
+event cookieReceived
+
+actor  cookieReceived inventoryPickupRegistered event
+command 
+data client service
+event inventoryPickupReady
+
+US-180
+actor worker
+command startService
+data service
+event serviceStarted
+
+actor worker
+command endService
+data service
+event serviceEnded
+
+actor client
+command approveService
+data service
+event serviceApproved
+
+US-190
+actor manager
+command initiateServiceQualityCheck
+data service client
+event serviceQualityCheckInitiated
+
+US-200
+actor serviceCanceled event
+command  initiateServiceQualityCheck
+data service client
+event serviceQualityCheckInitiated
+
+US-210
+actor manager
+command performServiceQualityCheck
+data qualityCheck
+event qualityCheckPerformed
+
+US-220
+actor timer
+command fillClientInvoice
+data orders
+event clientInvoiceFilled
+
+actor  clientInvoiceFilled event
+command reveivePayment
+data invoice client
+event paymentReceived
+
+US-230
+actor timer
+command fillWorkerInvoice
+data orders
+event workerInvoiceFilled
+
+actor  workerInvoiceFilled event
+command payWage
+data invoice worker
+event wagePayed
+
+US-270
+actor manager
+command withdrawBonus
+data worker
+event bonusWithdrawed
+
+US-280
+actor manager
+command placeStake
+data order result
+event stakePlaced
+
+US-290
+actor  serviceCanceled  serviceEnded serviceFailed
+command distributeGambleProfits
+data service
+event gambleProfitsDistributed
+
+US-301
+actor  workerRegistered workerHired workerAssessmentPlanned vacancyAssessmentPlanned  workerAssessed workerDeclined event
+command sendAssessmentNotification
+data worker
+event assessmentNotificationSent
+
+US-302
+actor serviceApproved serviceEnded serviceStarted  inventoryPickupFinished serviceFailed serviceRegularMatched 
+command sendServiceNotification
+data service
+event serviceNotificationSent
+
+US-303
+actor inventoryPickupReady event
+command sentInventoryReadyNotificaton
+data worker service
+event inventoryReadyNotificaitonSent
+
+US-304
+actor  workerInvoiceFilled event
+command sendWorkerInvoiceNotification
+data invoice
+event workerInvoiceNotificationSend
+
+actor  clientInvoiceFilled event
+command sendClientInvoiceNotification
+data invoice
+event clientInvoiceNotificationSend
+
+US-305
+actor  qualityCheckPerformed event
+command sendClientQualityReportNotification
+data
+event clientQualityReportNotificationSent
+
+actor  qualityCheckPerformed event
+command sendWorkerQualityReportNotification
+data
+event workerQualityReportNotificationSent
+
+US-306
+actor  clientWorkerMatched event
+command sendWorkerServiceNotification
+data service
+event workerServiceNotificationSent
+
+* Бизнес цепочки
+** Заказ услуги
+serviceRequested ->  clientWorkerMatchTriggered -> clientWorkerMatched -> serviceEvaluated
+
+** Оформление заказа
+orderCheckedOut -> discountApplied
+
+** Отмена услуги
+serviceCanceled
+
+** Создание нового типа услуги
+serviceTypeRegistered
+
+** Регистрация воркера
+workerRegistered
+
+** Тестирование воркера
+vacancyAssessmentPlanned
+
+workerAssessmentPlanned -> workerAssessed -> workerHired
+workerAssessmentPlanned -> workerDeclined
+
+** Отмена просроченных заказов
+overdueServiceFound -> serviceFailed -> 
+
+** Выдача со склада
+clientWorkerMatched -> inventoryPickupRegistered -> inventoryPickupReady -> inventoryPickupFinished
+
+** Заказ печенек
+clientWorkerMatched -> cookieOrdered -> cookieReceived -> inventoryPickupReady
+
+** Выполнение заказа
+serviceStarted -> serviceEnded -> serviceApproved
+
+** Проверка качества заказа
+serviceQualityCheckInitiated -> qualityCheckPerformed
+serviceCanceled -> serviceQualityCheckInitiated
+
+** Выставление счетов клиентам и оплата заказанных задач
+clientInvoiceFilled -> paymentReceived
+
+** Оплата работы воркерам
+workerInvoiceFilled -> wagePayed
+bonusWithdrawed
+
+** Система ставок
+placeStake
+serviceCanceled -> gambleProfitsDistributed
+serviceEnded -> gambleProfitsDistributed
+serviceFailed -> gambleProfitsDistributed
+
+* Модель данных
+в приложенной диаграмме
+* Домены
+client admin
+service order
+matching
+worker registration & assessment
+fulfillment
+quality control
+client billing
+worker payroll
+manager gambling
+
+* Сервисы
+- hr_admin регистрация клиентов и менеджеров
+один сервис на контекст
+в будущем, возможно, придется при выходе на рынок
+добавить регистрацию клиентов еще одним модулем
+
+- worker_registration регистрация воркеров
+- worker_assessment тестирование воркеров
+2 сервиса на один контекст нужно для того, 
+что они будут по-разному масштабироваться
+из-за риска атак
+также модуль тестирования котов будет часто изменяться
+может быть в нем будут аб тесты
+
+- service создание и выполнение задач
+один модуль на 2 контекста заказа и выполнения услуги
+потому что удобно статус услуги из одного места обновлять в остальных модулях
+
+- matching подбор исполнителя и первоначальной стоимости задачи
+это отдельный контекст и модуль, 
+потому что им отдельные разработчики занимаются, 
+которых не понимает никто
+
+- pricing применение скидок
+в этом модуле может быть сложная бизнес логика
+он непосредственно не влияет на флоу
+
+- billing выставление инвойсов клиентам и списание платы
+- payroll расчет и выплата зарплаты воркерам
+2 разных модуля нужны для расчетов с котами,
+а не один. потому что это разные процессы, 
+у них разные биллинговые периоды,
+и процессы по-разному работают
+
+- gambling учет ставок на задачи
+это отдельный модуль, потому что он никогда не будет изменяться
+нужно обложить его тестами и документацией и забросить в дальний репозиторий
+
+** Сервисы уведомлений
+сервисы уведомлений отдельные для каждого флоу уведомлений
+единый сервис уведомлений не подойдет, 
+потому что эти сервисы будут изменяться отдельно
+
+assessment_notification
+service_notification
+inventory_ready_notification
+billing_notification
+payroll_notification
+quality_notification
+
+* Связи между сервисами
+связи между сервисами должны быть асинхронными
+потому что нет ни одного места, где необходим мгновенный ответ
