@@ -3,6 +3,8 @@
 и схема доменов
 
 они находятся в svg рисунках в этой же папке
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/0_week_homework/0_week_homework_data_architecture.svg
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/0_week_homework/0_week_homework_domains.svg
 
 * Actors 
 manager
@@ -340,17 +342,20 @@ serviceFailed -> gambleProfitsDistributed
 
 * Модель данных
 в приложенной диаграмме
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/0_week_homework/0_week_homework_data_architecture.svg
 * Домены
-client admin
-service order
-matching
-worker registration & assessment
-fulfillment
-quality control
-client billing
-worker payroll
-manager gambling
+- client admin
+- service order
+- matching
+- worker registration & assessment
+- fulfillment
+- quality control
+- client billing
+- worker payroll
+- manager gambling
 
+диаграмма с доменами
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/0_week_homework/0_week_homework_domains.svg
 * Сервисы
 - hr_admin регистрация клиентов и менеджеров
 один сервис на контекст
