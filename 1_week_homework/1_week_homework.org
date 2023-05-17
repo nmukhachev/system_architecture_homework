@@ -1,7 +1,13 @@
 * ссылки на схемы
 event storming
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/1_week_homework/1_week_event_storming.svg
+
 data model
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/1_week_homework/1_week_data_model.svg
+
 communication model
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/1_week_homework/1_week_communication_model.svg
+
 * event storming
 группировка команд в контексты такая, 
 что в каждом контексте отдельный бизнес процесс
