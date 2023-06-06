@@ -1,0 +1,1624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1650mm"
+   height="741mm"
+   viewBox="0 0 1650 741"
+   version="1.1"
+   id="svg4500"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="4_week_homework_system_conversion.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4502"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.17558712"
+     inkscape:cx="3118.1102"
+     inkscape:cy="1401.0139"
+     inkscape:window-width="1596"
+     inkscape:window-height="848"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs4497">
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3966"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3964"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28591"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path28589"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L-6"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3354"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3352"
+         transform="scale(-0.5)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.651435;stroke-dasharray:none"
+       id="rect371-3-7-3-2"
+       width="228.77985"
+       height="129.04633"
+       x="255.84024"
+       y="315.16504"
+       rx="9.9608564"
+       ry="9.9608564" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7"><tspan
+         x="261.50455"
+         y="322.86768"
+         id="tspan11074">учет услуг</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-6"
+       width="134.53171"
+       height="86.559219"
+       x="321.59595"
+       y="539.55493"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-6);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-7"><tspan
+         x="327.28653"
+         y="547.2583"
+         id="tspan11076">подбор воркера под задачу</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-5"
+       width="134.53171"
+       height="86.559219"
+       x="431.47964"
+       y="206.99226"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-5);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-3"><tspan
+         x="437.17126"
+         y="214.6958"
+         id="tspan11078">улучшение бизнеса</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-56"
+       width="134.53171"
+       height="86.559219"
+       x="615.83783"
+       y="206.64091"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-56);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-2"><tspan
+         x="621.52863"
+         y="214.34424"
+         id="tspan11080">рассчеты с воркерами</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-9"
+       width="134.53171"
+       height="86.559219"
+       x="490.24609"
+       y="459.20267"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-9);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-1"><tspan
+         x="495.93686"
+         y="466.90674"
+         id="tspan11082">получение оплаты</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-2"
+       width="134.53171"
+       height="86.559219"
+       x="665.97778"
+       y="478.03696"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-2);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-70"><tspan
+         x="671.66931"
+         y="485.74072"
+         id="tspan11084">гибкое ценообразование</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-93"
+       width="134.53171"
+       height="86.559219"
+       x="46.092705"
+       y="296.98145"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-93);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-6"><tspan
+         x="51.787449"
+         y="304.68408"
+         id="tspan11086">администрирование </tspan><tspan
+         x="46.091797"
+         y="315.26743"
+         id="tspan11088">пользователей</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-0"
+       width="134.53171"
+       height="86.559219"
+       x="72.729668"
+       y="191.21095"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-0);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-62"><tspan
+         x="78.421272"
+         y="198.91455"
+         id="tspan11090">поиск воркеров</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-61"
+       width="134.53171"
+       height="86.559219"
+       x="266.27826"
+       y="209.5849"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-61);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-8"><tspan
+         x="271.97299"
+         y="217.2876"
+         id="tspan11092">скоринг</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-7"
+       width="115.89459"
+       height="71.60672"
+       x="109.85033"
+       y="526.35114"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-7);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-9"><tspan
+         x="115.54241"
+         y="534.05518"
+         id="tspan11094">мотивация менеджеров</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241"
+       width="56.610058"
+       height="33.789539"
+       x="91.370171"
+       y="331.50552"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851"
+       transform="translate(1e-5,1.31927)"><tspan
+         x="94.525495"
+         y="338.56749"
+         id="tspan11096"> регистрация </tspan><tspan
+         x="98.328893"
+         y="348.26888"
+         id="tspan11098">клиентов и </tspan><tspan
+         x="95.68624"
+         y="357.97026"
+         id="tspan11100">менеджеров</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3"
+       width="56.610058"
+       height="33.789539"
+       x="121.20489"
+       y="226.06636"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6"
+       transform="translate(-0.33033,6.16991)"><tspan
+         x="125.36932"
+         y="233.12804"
+         id="tspan11102">регистрация </tspan><tspan
+         x="131.40701"
+         y="242.82941"
+         id="tspan11104">воркеров</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7"
+       width="60"
+       height="33.790001"
+       x="295.26074"
+       y="251.29784"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5"
+       transform="translate(-0.33033,6.16991)"><tspan
+         x="298.75662"
+         y="258.35851"
+         id="tspan11106">тестирование </tspan><tspan
+         x="307.15896"
+         y="268.05989"
+         id="tspan11108">воркеров</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-3"
+       width="60"
+       height="33.790001"
+       x="410.60748"
+       y="338.45279"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-5"
+       transform="translate(-0.32993,1.52935)"><tspan
+         x="419.40412"
+         y="345.51476"
+         id="tspan11110">создание и </tspan><tspan
+         x="416.52475"
+         y="355.21614"
+         id="tspan11112">выполнение </tspan><tspan
+         x="429.71859"
+         y="364.91753"
+         id="tspan11114">задач</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-3-23"
+       width="60"
+       height="33.790001"
+       x="285.24329"
+       y="381.71548"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-3-23);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-5-75"
+       transform="translate(-0.21331,6.99327)"><tspan
+         x="295.97238"
+         y="388.77648"
+         id="tspan11116">складской </tspan><tspan
+         x="306.85051"
+         y="398.47786"
+         id="tspan11118">учет</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-3-6"
+       width="74.734459"
+       height="47.062111"
+       x="367.5878"
+       y="569.74847"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-3-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-5-2"
+       transform="translate(0.11971,4.16418)"><tspan
+         x="390.87258"
+         y="576.80968"
+         id="tspan11120">подбор </tspan><tspan
+         x="376.70469"
+         y="586.51103"
+         id="tspan11122">исполнителя и </tspan><tspan
+         x="372.30802"
+         y="596.21239"
+         id="tspan11124">первоначальной </tspan><tspan
+         x="370.60057"
+         y="605.91374"
+         id="tspan11126">стоимости задачи</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-3-2"
+       width="60"
+       height="33.790001"
+       x="710.20239"
+       y="512.83417"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-3-2);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-5-7"
+       transform="translate(-0.32995,6.37942)"><tspan
+         x="715.99918"
+         y="519.89562"
+         id="tspan11128">применение </tspan><tspan
+         x="727.13733"
+         y="529.59697"
+         id="tspan11130">скидок</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-3-6-0"
+       width="74.734459"
+       height="47.062111"
+       x="536.14343"
+       y="494.87534"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-3-6-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-5-2-9"
+       transform="translate(0.11971,4.16418)"><tspan
+         x="548.54718"
+         y="501.93663"
+         id="tspan11132">выставление </tspan><tspan
+         x="555.01896"
+         y="511.63802"
+         id="tspan11134">инвойсов </tspan><tspan
+         x="551.63512"
+         y="521.3394"
+         id="tspan11136">клиентам и </tspan><tspan
+         x="542.8185"
+         y="531.04076"
+         id="tspan11138">списание платы</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-3-6-3"
+       width="54.778931"
+       height="50.084061"
+       x="661.08698"
+       y="239.53526"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-3-6-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-5-2-6"
+       transform="translate(-0.1207,4.6152)"><tspan
+         x="672.13169"
+         y="246.59679"
+         id="tspan11140">расчет и </tspan><tspan
+         x="672.35675"
+         y="256.29816"
+         id="tspan11142">выплата </tspan><tspan
+         x="670.30395"
+         y="265.99953"
+         id="tspan11144">зарплаты </tspan><tspan
+         x="669.88485"
+         y="275.70091"
+         id="tspan11146">воркерам</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-3-2-0"
+       width="60"
+       height="33.790001"
+       x="145.66565"
+       y="554.19427"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-3-2-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-5-7-6"
+       transform="translate(-0.0038,11.02001)"><tspan
+         x="153.74046"
+         y="561.25499"
+         id="tspan11148">учет ставок </tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-36"
+       width="60"
+       height="33.790001"
+       x="462.21899"
+       y="248.72679"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-36);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-1"
+       transform="translate(-0.32975,7.06347)"><tspan
+         x="474.29451"
+         y="255.78819"
+         id="tspan11150">контроль </tspan><tspan
+         x="475.29955"
+         y="265.48958"
+         id="tspan11152">качества</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-61-9"
+       width="134.53171"
+       height="86.559219"
+       x="266.7742"
+       y="75.782562"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-61-9);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-8-2"><tspan
+         x="272.46622"
+         y="83.486816"
+         id="tspan11154">уведомления</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-2"
+       width="60"
+       height="33.790001"
+       x="295.75665"
+       y="117.4955"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-2);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-8"
+       transform="translate(0.3258,11.02003)"><tspan
+         x="300.28879"
+         y="124.55773"
+         id="tspan11156">уведомления</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-61-9-9"
+       width="134.53171"
+       height="86.559219"
+       x="624.08826"
+       y="91.473007"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-61-9-9);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-8-2-7"><tspan
+         x="629.78064"
+         y="99.176269"
+         id="tspan11158">уведомления</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-2-3"
+       width="60"
+       height="33.790001"
+       x="653.07068"
+       y="133.18594"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-2-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-8-6"
+       transform="translate(0.3258,11.02003)"><tspan
+         x="657.60274"
+         y="140.24718"
+         id="tspan11160">уведомления</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-61-9-1"
+       width="134.53171"
+       height="86.559219"
+       x="455.77271"
+       y="94.325806"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-61-9-1);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-8-2-2"><tspan
+         x="461.46423"
+         y="102.02978"
+         id="tspan11162">уведомления</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-2-9"
+       width="60"
+       height="33.790001"
+       x="484.75513"
+       y="136.03876"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-2-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-8-3"
+       transform="translate(0.3258,11.02003)"><tspan
+         x="489.28683"
+         y="143.10069"
+         id="tspan11164">уведомления</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-61-9-19"
+       width="134.53171"
+       height="86.559219"
+       x="508.54962"
+       y="572.88416"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-61-9-19);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-8-2-4"><tspan
+         x="514.24164"
+         y="580.58838"
+         id="tspan11166">уведомления</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-2-7"
+       width="60"
+       height="33.790001"
+       x="537.53204"
+       y="614.59711"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-2-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-8-8"
+       transform="translate(0.3258,11.02004)"><tspan
+         x="542.06419"
+         y="621.65929"
+         id="tspan11168">уведомления</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-61-9-4"
+       width="134.53171"
+       height="86.559219"
+       x="553.64288"
+       y="335.62482"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-61-9-4);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-8-2-5"><tspan
+         x="559.33502"
+         y="343.32861"
+         id="tspan11170">уведомления</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-2-0"
+       width="60"
+       height="33.790001"
+       x="582.62531"
+       y="377.33777"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-2-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-8-36"
+       transform="translate(0.3258,11.02004)"><tspan
+         x="587.15697"
+         y="384.39952"
+         id="tspan11172">уведомления</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;stroke:#000000;stroke-width:0.653995;stroke-dasharray:none"
+       id="rect371-3-7-3-2-61-9-10"
+       width="134.53171"
+       height="86.559219"
+       x="49.247612"
+       y="402.42899"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-61-9-10);display:inline;fill:#000000;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-8-2-6"><tspan
+         x="54.938847"
+         y="410.1333"
+         id="tspan11174">уведомления</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.30283;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect241-3-7-2-32"
+       width="60"
+       height="33.790001"
+       x="78.230095"
+       y="444.14194"
+       rx="5"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;text-align:center;white-space:pre;shape-inside:url(#rect241-3-7-2-32);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:stroke fill markers"
+       x="93.103416"
+       y="40.825863"
+       id="text851-6-5-8-0"
+       transform="translate(0.3258,11.02004)"><tspan
+         x="82.761989"
+         y="451.20421"
+         id="tspan11176">уведомления</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L);paint-order:stroke fill markers"
+       d="m 177.81495,247.02475 117.44579,16.86113"
+       id="path2554"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="6"
+       inkscape:connection-end="#rect241-3-7"
+       inkscape:connection-start="#rect241-3" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L);paint-order:stroke fill markers"
+       d="m 147.98023,349.01304 262.62725,5.68531"
+       id="path2556"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="6"
+       inkscape:connection-end="#rect241-3-7-3"
+       inkscape:connection-start="#rect241" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker3966);paint-order:stroke fill markers"
+       d="m 347.62072,285.08784 70.62678,53.36495"
+       id="path2560"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="6"
+       inkscape:connection-end="#rect241-3-7-3"
+       inkscape:connection-start="#rect241-3-7" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L);paint-order:stroke fill markers"
+       d="M 438.07588,372.24279 408.481,569.74847"
+       id="path2564"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="6"
+       inkscape:connection-end="#rect241-3-7-3-6"
+       inkscape:connection-start="#rect241-3-7-3" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker3966);paint-order:stroke fill markers"
+       d="M 554.33135,494.87534 454.37799,372.24279"
+       id="path2568"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="6"
+       inkscape:connection-start="#rect241-3-7-3-6-0"
+       inkscape:connection-end="#rect241-3-7-3" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L);paint-order:stroke fill markers"
+       d="m 470.60748,344.36168 190.4795,-69.75427"
+       id="path2570"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="6"
+       inkscape:connection-end="#rect241-3-7-3-6-3"
+       inkscape:connection-start="#rect241-3-7-3" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L);paint-order:stroke fill markers"
+       d="M 419.85954,372.24279 196.41359,554.19427"
+       id="path2574"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="6"
+       inkscape:connection-end="#rect241-3-7-3-2-0"
+       inkscape:connection-start="#rect241-3-7-3" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker3966);paint-order:stroke fill markers"
+       d="m 710.20239,527.69137 -99.3245,-6.74676"
+       id="path2576"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="6"
+       inkscape:connection-start="#rect241-3-7-3-2"
+       inkscape:connection-end="#rect241-3-7-3-6-0" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:0;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="text3621"
+       transform="translate(1.99386,-1.42077)"><textPath
+         xlink:href="#path2556"
+         startOffset="50%"
+         id="textPath3623"
+         style="font-size:5.64444px;fill:#000000;fill-opacity:1;stroke-width:1">async</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:0;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="text3669"
+       transform="translate(0.67445,-1.78898)"><textPath
+         xlink:href="#path2554"
+         startOffset="50%"
+         id="textPath4234"><tspan
+           id="tspan3667"
+           style="stroke-width:1">async</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:0;text-align:center;direction:rtl;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="text3669-1"
+       transform="translate(0.33521,-0.47103)"><textPath
+         xlink:href="#path2560"
+         startOffset="50%"
+         id="textPath3921"><tspan
+           id="tspan3667-8"
+           style="direction:rtl;stroke-width:1"
+           dy="-2 0 0 0">async</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:0;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="text3669-7"><textPath
+         xlink:href="#path2564"
+         startOffset="50%"
+         id="textPath23920"><tspan
+           id="tspan3667-9"
+           style="stroke-width:1"
+           dy="-2">async</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:0;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="text3669-7-2"
+       transform="translate(0.06818,-0.00874)"><textPath
+         xlink:href="#path6064"
+         startOffset="50%"
+         id="textPath6124"><tspan
+           id="tspan3667-9-9"
+           style="stroke-width:1"
+           dy="-2">async</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:0;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="text3669-2"
+       transform="translate(1.81641,-1.62442)"><textPath
+         xlink:href="#path2574"
+         startOffset="50%"
+         id="textPath4239"><tspan
+           id="tspan3667-0"
+           style="stroke-width:1">async</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:0;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="text3669-23"
+       transform="translate(2.06823,-0.18575)"><textPath
+         xlink:href="#path2570"
+         startOffset="50%"
+         id="textPath4244"><tspan
+           id="tspan3667-7"
+           style="stroke-width:1">async</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:0;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="text3669-5"
+       transform="translate(-0.71933,-2.5694)"><textPath
+         xlink:href="#path2568"
+         startOffset="50%"
+         id="textPath4251"><tspan
+           id="tspan3667-92"
+           style="stroke-width:1">async</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:0;text-align:center;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="text3669-28"
+       transform="translate(-0.15226,0.0912)"><textPath
+         xlink:href="#path2576"
+         startOffset="50%"
+         id="textPath25753"
+         style="writing-mode:tb-rl;direction:ltr;text-orientation:sideways"
+         dy="0"
+         dx="3">async</textPath></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 450.3257,338.45279 32.17508,-55.936"
+       id="path6064"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#rect241-3-7-36"
+       inkscape:connection-start="#rect241-3-7-3" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker28591)"
+       d="M 410.60748,365.70067 345.24329,388.2576"
+       id="path28587"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect241-3-7-3"
+       inkscape:connection-end="#rect241-3-7-3-23" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="M 325.32336,251.29784 325.69404,151.2855"
+       id="path29848"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect241-3-7"
+       inkscape:connection-end="#rect241-3-7-2" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 495.59777,248.72679 15.77858,-78.89803"
+       id="path29924"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect241-3-7-36"
+       inkscape:connection-end="#rect241-3-7-2-9" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 687.29412,239.53526 -3.42577,-72.55932"
+       id="path29962"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect241-3-7-3-6-3"
+       inkscape:connection-end="#rect241-3-7-2-3" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 470.60748,362.12935 112.01783,25.32186"
+       id="path29968"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect241-3-7-3"
+       inkscape:connection-end="#rect241-3-7-2-0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="m 572.26662,541.93745 -3.84137,72.65966"
+       id="path29976"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect241-3-7-3-6-0"
+       inkscape:connection-end="#rect241-3-7-2-7" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="M 285.24329,407.65722 138.23009,451.9902"
+       id="path29986"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect241-3-7-3-23"
+       inkscape:connection-end="#rect241-3-7-2-32" />
+    <rect
+       style="display:inline;fill:#5fd38d;fill-opacity:1;stroke:#000000;stroke-width:0.817561;stroke-dasharray:none"
+       id="rect371-3-7"
+       width="126.83331"
+       height="101.53796"
+       x="1310.7078"
+       y="473.91367"
+       ry="11.741138"
+       rx="11.741138" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738"><tspan
+         x="1318.0601"
+         y="480.33374"
+         id="tspan11178">подбор лучшего воркера для </tspan><tspan
+         x="1311.1167"
+         y="489.1532"
+         id="tspan11180">выполнения услуги</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;fill-opacity:1;stroke:#000000;stroke-width:1.17411;stroke-dasharray:none"
+       id="rect371-3"
+       width="213.7038"
+       height="92.212181"
+       x="1170.8219"
+       y="332.36832"
+       rx="11.741138"
+       ry="11.741138" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;white-space:pre;shape-inside:url(#rect371-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.13359"
+       x="177.21904"
+       y="28.95833"
+       id="text7998"><tspan
+         x="1178.1733"
+         y="338.78882"
+         id="tspan11182">продажа услуг</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;fill-opacity:1;stroke:#000000;stroke-width:1.17411;stroke-dasharray:none"
+       id="rect371-3-7-3"
+       width="112.20737"
+       height="89.472015"
+       x="963.90057"
+       y="193.34564"
+       ry="11.741138"
+       rx="11.741138" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="-19.275391"
+       y="49.336426"
+       id="text7738-7"><tspan
+         x="971.25153"
+         y="199.76538"
+         id="tspan11184"> привлечение воркеров</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;fill-opacity:1;stroke:#000000;stroke-width:0.767865;stroke-dasharray:none"
+       id="rect371-3-7-3-2-75"
+       width="142.89226"
+       height="74.70993"
+       x="1166.7139"
+       y="163.63672"
+       rx="5.8705692" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-7-3-2-75);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-dasharray:none"
+       x="22.788498"
+       y="32.306675"
+       id="text7738-7-7-35"><tspan
+         x="1169.6667"
+         y="170.0564"
+         id="tspan11186">скоринг</tspan></text>
+    <rect
+       style="display:inline;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.661684"
+       id="rect371-31"
+       width="85.423462"
+       height="60.933094"
+       x="948.10498"
+       y="374.10498"
+       rx="11.741138"
+       ry="11.741138" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;white-space:pre;shape-inside:url(#rect371-31);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.865"
+       x="106.0397"
+       y="90.106339"
+       id="text7987-4"><tspan
+         x="955.45654"
+         y="380.52515"
+         id="tspan11188">выдача </tspan><tspan
+         x="948.51514"
+         y="389.34461"
+         id="tspan11190">расходников</tspan></text>
+    <rect
+       style="display:inline;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.17411;stroke-dasharray:none"
+       id="rect371-31-6"
+       width="93.496712"
+       height="66.021759"
+       x="1038.0326"
+       y="491.02621"
+       ry="11.741138"
+       rx="11.741138" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;white-space:pre;shape-inside:url(#rect371-31-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.873721"
+       x="106.0397"
+       y="90.106339"
+       id="text7987-4-1"><tspan
+         x="1045.3843"
+         y="497.44507"
+         id="tspan11192">увеличение </tspan><tspan
+         x="1038.4432"
+         y="506.26453"
+         id="tspan11194">мотивации менеджеров</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;fill-opacity:1;stroke:#000000;stroke-width:1.17411;stroke-dasharray:none"
+       id="rect371-3-2"
+       width="73.106026"
+       height="81.07914"
+       x="1504.1779"
+       y="180.8215"
+       rx="11.741138"
+       ry="11.741138" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-2);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="388.25195"
+       y="68.557365"
+       id="text7998-9"
+       transform="translate(3.63765,0.381163)"><tspan
+         x="1511.5288"
+         y="187.24194"
+         id="tspan11196">мотивация </tspan><tspan
+         x="1504.5874"
+         y="196.0614"
+         id="tspan11198">воркеров</tspan></text>
+    <rect
+       style="display:inline;fill:#5fd38d;fill-opacity:1;stroke:#000000;stroke-width:1.17411;stroke-dasharray:none"
+       id="rect371-3-2-2"
+       width="73.106026"
+       height="81.07914"
+       x="1381.0082"
+       y="173.50507"
+       rx="11.741138"
+       ry="11.741138" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;white-space:pre;shape-inside:url(#rect371-3-2-2);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="388.25195"
+       y="68.557365"
+       id="text7998-9-0"
+       transform="translate(3.63765,0.381163)"><tspan
+         x="1388.3589"
+         y="179.92554"
+         id="tspan11200">улучшение </tspan><tspan
+         x="1381.4175"
+         y="188.745"
+         id="tspan11202">бизнеса</tspan></text>
+    <g
+       id="g8146"
+       transform="matrix(1.1741138,0,0,1.1741138,1057.8218,274.97453)"
+       style="display:inline">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.865"
+         id="rect7630"
+         width="28.205196"
+         height="19.380604"
+         x="112.95947"
+         y="92.885452"
+         rx="5"
+         ry="5" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:center;white-space:pre;shape-inside:url(#rect7630);display:inline;fill:#000000;stroke:none;stroke-width:0.865"
+         x="124.05464"
+         y="90.106339"
+         id="text7987-1"
+         transform="translate(-0.00791764,3.8410542)"
+         sodipodi:insensitive="true"><tspan
+           x="117.96706"
+           y="96.736567"
+           id="tspan11204">продажа
+</tspan><tspan
+           x="121.74658"
+           y="102.02823"
+           id="tspan11206">услуг</tspan></text>
+    </g>
+    <g
+       id="g8146-6"
+       transform="matrix(1.2168588,0,0,1.2168588,1114.0752,229.7359)"
+       style="display:inline">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.865"
+         id="rect7630-8"
+         width="28.205196"
+         height="19.380604"
+         x="115.3743"
+         y="94.190872"
+         rx="4.8243632"
+         ry="4.8243632" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.74424px;text-align:start;white-space:pre;shape-inside:url(#rect7630-8);display:inline;fill:#000000;stroke:none;stroke-width:0.865"
+         x="129.06265"
+         y="90.106339"
+         id="text7987-1-8"
+         transform="translate(0.04428868,2.5855419)"><tspan
+           x="119.04707"
+           y="97.598197"
+           id="tspan11210"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan11208">мобильное
+</tspan></tspan><tspan
+           x="117.90223"
+           y="102.2785"
+           id="tspan11214"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan11212">приложение
+</tspan></tspan><tspan
+           x="117.04105"
+           y="106.95879"
+           id="tspan11218"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan11216">для воркеров</tspan></tspan></text>
+    </g>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.01561"
+       id="rect7630-4"
+       width="33.116112"
+       height="22.755033"
+       x="1374.0392"
+       y="527.80896"
+       ry="5.8705692"
+       rx="5.8705692" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;text-align:start;white-space:pre;shape-inside:url(#rect7630-4);display:inline;fill:#000000;stroke:none;stroke-width:0.865"
+       x="115.1329"
+       y="90.106339"
+       id="text7987-1-7"
+       transform="translate(2.42584,6.970458)"><tspan
+         x="1377.5197"
+         y="531.6604"
+         id="tspan11220">матчинг</tspan></text>
+    <g
+       id="g8444"
+       transform="matrix(1.1741138,0,0,1.1741138,1244.4277,287.72306)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.865"
+         id="rect7630-4-5"
+         width="28.205196"
+         height="19.380604"
+         x="68.94146"
+         y="48.746208"
+         ry="5"
+         rx="5" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;text-align:start;white-space:pre;shape-inside:url(#rect7630-4-5);display:inline;fill:#000000;stroke:none;stroke-width:0.865"
+         x="125.40507"
+         y="90.106339"
+         id="text7987-1-7-6"
+         transform="translate(0.168857,3.955293)"><tspan
+           x="72.598201"
+           y="52.597895"
+           id="tspan11224"><tspan
+   style="text-align:center;text-anchor:middle"
+   id="tspan11222">установка</tspan>
+</tspan><tspan
+           x="77.517337"
+           y="57.88956"
+           id="tspan11226">цены</tspan></text>
+    </g>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.01561"
+       id="rect7630-4-5-4"
+       width="43.521629"
+       height="25.43383"
+       x="1185.1884"
+       y="196.91124"
+       rx="5.8705692"
+       ry="5.8705692" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;text-align:start;white-space:pre;shape-inside:url(#rect7630-4-5-4);display:inline;fill:#000000;stroke:none;stroke-width:0.865"
+       x="138.1474"
+       y="90.106339"
+       id="text7987-1-7-6-7"
+       transform="translate(-0.14951,5.956252)"><tspan
+         x="1194.1716"
+         y="200.12195"
+         id="tspan11230"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan11228">планирование </tspan></tspan><tspan
+         x="1194.9107"
+         y="204.53168"
+         id="tspan11234"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan11232">тестирования</tspan></tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.01561"
+       id="rect7630-4-5-4-7"
+       width="41.619488"
+       height="26.561247"
+       x="1019.9108"
+       y="237.29137"
+       rx="5.8705692"
+       ry="5.8705692" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;text-align:center;white-space:pre;shape-inside:url(#rect7630-4-5-4-7);display:inline;fill:#000000;stroke:none;stroke-width:0.865"
+       x="151.02094"
+       y="90.106339"
+       id="text7987-1-7-6-7-8"
+       transform="translate(6.2e-4,5.460309)"><tspan
+         x="1027.5529"
+         y="241.14282"
+         id="tspan11236">регистрация
+</tspan><tspan
+         x="1032.1588"
+         y="246.43447"
+         id="tspan11238">воркера</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.01561"
+       id="rect7630-4-5-4-4"
+       width="46.364845"
+       height="23.043577"
+       x="1238.5839"
+       y="199.21414"
+       ry="5.8705692"
+       rx="5.8705692" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;text-align:start;white-space:pre;shape-inside:url(#rect7630-4-5-4-4);display:inline;fill:#000000;stroke:none;stroke-width:0.865"
+       x="138.51941"
+       y="90.106339"
+       id="text7987-1-7-6-7-3"
+       transform="translate(0.06095,1.902174)"><tspan
+         x="1248.5146"
+         y="202.74567"
+         id="tspan11242"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan11240">тестирование
+</tspan></tspan><tspan
+         x="1254.9948"
+         y="207.59636"
+         id="tspan11246"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan11244">и найм
+</tspan></tspan><tspan
+         x="1252.7152"
+         y="212.44705"
+         id="tspan11250"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan11248">воркеров</tspan></tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.01561"
+       id="rect7630-2"
+       width="33.116112"
+       height="22.755033"
+       x="997.09229"
+       y="407.03421"
+       rx="5.8705692"
+       ry="5.8705692" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;text-align:start;white-space:pre;shape-inside:url(#rect7630-2);display:inline;fill:#000000;stroke:none;stroke-width:0.865"
+       x="125.4601"
+       y="90.106339"
+       id="text7987-1-0"
+       transform="translate(0.06632,4.289787)"><tspan
+         x="1003.139"
+         y="410.88696"
+         id="tspan11254"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan11252">складской
+</tspan></tspan><tspan
+         x="1009.072"
+         y="416.17861"
+         id="tspan11258"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan11256">учет</tspan></tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.17411;stroke-dasharray:none"
+       id="rect7630-2-6"
+       width="33.116112"
+       height="22.755033"
+       x="1085.2003"
+       y="524.44708"
+       ry="5.8705692"
+       rx="5.8705692" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;text-align:center;white-space:pre;shape-inside:url(#rect7630-2-6);display:inline;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="135.25179"
+       y="90.106339"
+       id="text7987-1-0-1"
+       transform="translate(-0.09745,3.84057)"><tspan
+         x="1091.8688"
+         y="528.29907"
+         id="tspan11260">азартные </tspan><tspan
+         x="1096.5327"
+         y="533.59075"
+         id="tspan11262">игры</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.05258"
+       id="rect7630-8-6"
+       width="34.321743"
+       height="23.583458"
+       x="1402.9866"
+       y="214.89453"
+       rx="5.8705692" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88055px;text-align:start;white-space:pre;shape-inside:url(#rect7630-8-6);display:inline;fill:#000000;stroke:none;stroke-width:0.896491"
+       x="141.38307"
+       y="90.106339"
+       id="text7987-1-8-6"
+       transform="translate(-0.00809,5.127749)"><tspan
+         x="1411.0495"
+         y="218.42535"
+         id="tspan11266"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan11264">проверка
+</tspan></tspan><tspan
+         x="1411.688"
+         y="223.27604"
+         id="tspan11270"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan11268">качества</tspan></tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.05258"
+       id="rect7630-8-6-4-7"
+       width="34.321743"
+       height="23.583458"
+       x="1525.1829"
+       y="223.56389"
+       ry="5.8705692"
+       rx="5.8705692" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88055px;text-align:center;white-space:pre;shape-inside:url(#rect7630-8-6-4-7);display:inline;fill:#000000;stroke:none;stroke-width:0.896491"
+       x="149.80386"
+       y="90.106339"
+       id="text7987-1-8-6-8-2"
+       transform="translate(-0.08174,5.106055)"><tspan
+         x="1534.3673"
+         y="227.09527"
+         id="tspan11272">биллинг
+</tspan><tspan
+         x="1533.2923"
+         y="231.94596"
+         id="tspan11274">воркеров</tspan></text>
+    <g
+       id="g8146-6-2-0"
+       transform="matrix(1.2168588,0,0,1.2168588,1191.3182,275.6033)"
+       style="display:inline">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.865"
+         id="rect7630-8-6-4"
+         width="28.205196"
+         height="19.380604"
+         x="115.3743"
+         y="94.190872"
+         ry="4.8243632"
+         rx="4.8243632" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.74424px;text-align:center;white-space:pre;shape-inside:url(#rect7630-8-6-4);display:inline;fill:#000000;stroke:none;stroke-width:0.865"
+         x="149.80386"
+         y="90.106339"
+         id="text7987-1-8-6-8"
+         transform="translate(-0.07927134,5.3562784)"><tspan
+           x="121.78036"
+           y="97.598197"
+           id="tspan11276">биллинг </tspan><tspan
+           x="120.86954"
+           y="102.2785"
+           id="tspan11278">клиентов</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.587057;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-3)"
+       d="m 1061.5303,245.44633 123.6581,-30.45826"
+       id="path3018"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect7630-4-5-4-7"
+       inkscape:connection-end="#rect7630-4-5-4" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.587057;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-3)"
+       d="m 1228.71,210.06791 9.8739,0.19954"
+       id="path3020"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect7630-4-5-4"
+       inkscape:connection-end="#rect7630-4-5-4-4" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.587057;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-3)"
+       d="m 1258.3499,222.25772 -47.9691,161.7749"
+       id="path3022"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect7630-4-5-4-4"
+       inkscape:connection-end="#g8146" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.587057;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-3)"
+       d="m 1190.4491,397.37987 -160.2407,19.06212"
+       id="path3024"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g8146"
+       inkscape:connection-end="#rect7630-2" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.587057;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-3)"
+       d="m 1198.479,406.78766 -88.1925,117.65942"
+       id="path3026"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g8146"
+       inkscape:connection-end="#rect7630-2-6" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.587057;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-3)"
+       d="m 1220.577,406.03719 156.4504,122.52224"
+       id="path3028"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g8146"
+       inkscape:connection-end="#rect7630-4" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.587057;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-3)"
+       d="M 1383.2025,527.80896 1279.2943,367.93635"
+       id="path3032"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect7630-4"
+       inkscape:connection-end="#g8146-6" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.587057;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-3)"
+       d="m 1284.8059,344.65984 122.166,-106.4888"
+       id="path3036"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#rect7630-8-6"
+       inkscape:connection-start="#g8146-6" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.587057;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-3)"
+       d="M 1357.183,347.12725 1526.4615,244.94288"
+       id="path3038"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#rect7630-8-6-4-7"
+       inkscape:connection-start="#g8444" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.587057;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-3)"
+       d="m 1222.2263,386.16286 33.5558,-20.38875"
+       id="path3034"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g8146"
+       inkscape:connection-end="#g8146-6" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.587057;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3354)"
+       d="m 1343.6601,367.71169 3.421,22.5086"
+       id="path3040"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#g8146-6-2-0"
+       inkscape:connection-start="#g8444" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.587057;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-3)"
+       d="m 1288.7912,356.19089 36.5816,0.0986"
+       id="path43723"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g8146-6"
+       inkscape:connection-end="#g8444" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="arrow">
+    <path
+       style="fill:#ff0000;stroke:#ff2a2a;stroke-width:0.499999"
+       id="path10328"
+       d="m 820.58279,314.47138 c 8.75785,-2.02956 17.70117,-3.00024 26.62231,-3.98559 5.83781,-0.66992 11.68579,-1.24474 17.52914,-1.86213 0.24329,-0.0257 6.43634,-0.63842 7.21925,-0.96533 0.49664,-0.20737 0.70972,-0.80925 1.06458,-1.21388 1.43369,-0.0394 1.00077,-0.33313 1.56027,0.16921 0,0 0.29765,0.1175 0.29765,0.1175 v 0 c -1.3372,-0.87755 -0.47772,-0.45085 -2.72858,-0.91753 -1.45236,-0.3809 -2.87213,-0.92062 -4.3571,-1.14271 -1.98135,-0.29633 -6.51336,0.0202 -8.36936,0.17463 -5.84658,0.48632 -11.66248,1.32173 -17.50081,1.88825 -9.0763,0.99413 -18.20116,1.80105 -27.14816,3.68808 0,0 5.81081,4.0495 5.81081,4.0495 z" />
+    <path
+       style="fill:#ff0000;stroke:#ff2a2a;stroke-width:0.499999"
+       id="path10330"
+       d="m 821.0033,360.91274 c 10.47939,-1.55402 20.90784,-3.41759 31.32995,-5.31225 0.0479,-0.009 10.02638,-1.81667 10.68391,-1.97315 1.13167,-0.2693 2.33128,-0.44367 3.3325,-1.03591 0.6339,-0.37496 0.90741,-1.1603 1.36111,-1.74045 0.68684,-0.31382 1.37367,-0.62764 2.0605,-0.94146 0,0 -0.26636,-0.17735 -0.26636,-0.17735 v 0 c -4.08069,1.67508 -0.30028,0.51488 -6.62437,0.431 -5.11013,-0.0678 -10.06204,1.58416 -15.0734,2.27534 -10.36959,2.00222 -20.73167,4.08216 -31.21863,5.38871 0,0 4.41479,3.08552 4.41479,3.08552 z" />
+    <path
+       style="fill:#ff0000;stroke:#ff2a2a;stroke-width:0.499999"
+       id="path10332"
+       d="m 851.45167,284.13864 c 2.9231,1.40862 5.91023,2.64485 8.68858,4.35188 0.40994,0.25187 0.63735,0.72998 1.02123,1.02002 2.38603,1.80278 4.86794,3.47539 7.27582,5.24886 2.46598,1.81626 4.89673,3.67989 7.34509,5.51982 5.74902,4.58882 11.9746,8.65906 17.3406,13.72296 2.05212,1.93659 4.09809,3.94786 4.85708,6.78317 0.30117,1.12505 0.11721,2.32638 0.17582,3.48957 -0.40795,1.2762 -0.63836,2.62348 -1.22385,3.8286 -3.15767,6.49949 -8.70868,11.3758 -13.59436,16.48934 -2.2896,2.39639 -4.78648,4.62881 -6.7601,7.29148 -1.91085,2.57797 -3.21393,5.55515 -4.82089,8.33273 -7.41947,8.26409 -3.9007,4.3143 -10.56455,11.842 0,0 0.27386,0.16554 0.27386,0.16554 v 0 c 6.66767,-7.53186 3.12474,-3.59603 10.65067,-11.78778 2.9604,-1.94607 6.07044,-3.68166 8.88121,-5.83822 3.31578,-2.54402 10.83305,-9.85061 13.90501,-13.05705 3.08867,-3.22389 5.95061,-6.16997 7.90375,-10.216 0.61824,-1.28071 0.83911,-2.71764 1.25867,-4.07646 -0.0618,-1.26275 0.1336,-2.56489 -0.1854,-3.78823 -0.79871,-3.06299 -2.85311,-5.06527 -5.08127,-7.16055 -5.44563,-5.12084 -11.76877,-9.2211 -17.59747,-13.86508 -10.99218,-8.28498 -22.01163,-16.84413 -34.77168,-22.27804 0,0 5.02218,3.98144 5.02218,3.98144 z" />
+  </g>
+</svg>

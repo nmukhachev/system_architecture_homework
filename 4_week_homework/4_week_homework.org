@@ -1,0 +1,104 @@
+* Диаграммы
+исходная и целевая системы
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/4_week_homework/4_week_homework_system_conversion.svg
+
+занос сервисов уведомлений
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/4_week_homework/4_week_homework_remove_notification_services.svg
+
+вынос модуля склада и покупка SaaS
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/4_week_homework/4_week_homework_outsource_inventory.svg
+
+покупка SaaS азартной игры для менеджеров
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/4_week_homework/4_week_homework_outsource_manager_motivation.svg
+
+занос в монолит биллинга клиентов
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/4_week_homework/4_week_homework_incorporate_clinet_billing.svg
+
+* Задача 1
+Для каждого удалённого сервиса и связанных с ним сервисов посчитайте значение instability;
+
+для всех модулей уведомлений instability = 0
+
+регистрация воркеров
+instability = 1
+
+тестирование воркеров
+instability = 0.66
+
+контроль качества
+instability =0.5
+
+расчет и выплата зарплаты воркерам
+instability = 0.5
+
+создание и выполнение задач
+instability = 7/9
+
+складской учет
+instability = 0.5
+
+учет ставок 
+instability = 0
+
+подбор исполнителя и первоначальной стоимости задачи
+instability = 0
+
+выставление инвойсов клиентам и списание платы
+instability = 0.66
+
+применение скидок
+instability = 0
+
+
+* Задача 2
+Опишите, какие сервисы и боундед-контексты в каком месте и каким образом будут меняться;
+
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/4_week_homework/4_week_homework_system_conversion.svg
+
+- все сервисы с уведомлениями нужно занести внутрь бизнесовых сервисов
+  кроме уведомлений из модуля складского учета
+  модули уведомлений увеличивают сложность системы
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/4_week_homework/4_week_homework_remove_notification_services.svg
+
+- азартную игру для менеджеров нужно заменить на SaaS
+  она из generic поддомена, и нет смысла на нее тратить ресурсы разработчиков
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/4_week_homework/4_week_homework_outsource_manager_motivation.svg
+
+- складской учет нужно вынести из монолита и заменить на SaaS
+  он из generic поддомена, и нет смысла на него тратить ресурсы разработчиков
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/4_week_homework/4_week_homework_remove_notification_services.svg
+
+- модуль получения оплаты с клиентов нужно занести в монолит
+  для того, чтобы снизить сложность и стоимость доработок
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/4_week_homework/4_week_homework_incorporate_clinet_billing.svg
+
+- модуль ценообразования нужно занести в монолит
+  потому что это технический этап получения оплаты с клиентов
+https://raw.githubusercontent.com/nmukhachev/system_architecture_homework/main/4_week_homework/4_week_homework_incorporate_clinet_billing.svg
+
+* Задача 3
+Спланируйте, как и в какой последовательности будет происходить работа. Можете выбрать одно из двух условий: нет людей, нет ресурсов.
+
+- нет людей
+  - занести биллинг с расчетом цены в монолит учета услуг
+    Это может дать максимальный эффект за счет того, 
+    что сообщения о заказе услуг не будут теряться в плохой сети из-за того, 
+    что коты-сетевики сталкивают коммутаторы на пол.
+    Бизнес перестанет недополучать прибыль от невыставленных услуг.
+    И коты клиенты станут более лояльными,
+    и будут чаще заказывать услуги, 
+    потому что после заноса в монолит модуль ценообразования будет делать им скидку на большие заказы.
+
+  - заменить игру для менеджеров на SaaS, и сразу появится много людей
+    дело в том, что для поддержания секретности азартной игры нужно было использовать memory eraser
+    это приводило к тому, что каждый раз после доработки модуля мотивации менеджеров
+    приходилось отправлять разработчиков этого модуля учиться читать и писать,
+    и искать на рынке новых разработчиков.
+    Из-за этого скорость найма влияла на релизный цикл модуля мотивации.
+
+  - заменить склад на SaaS
+    при этом можно сразу выкинуть модуль уведомлений складских
+
+  - перенести весь код из модулей уведомлений в бизнесовые модули
+    К этому моменту появится много людей, 
+    и часть из них будет иметь опыт затаскивания модулей внутрь монолита.
